@@ -47,4 +47,12 @@ The logic was successfully implemented and validated in Logisim using AND and OR
 * `/Circuit`: Contains the `.circ` Logisim simulation file and screenshots of the circuit design.
 
 ## Circuit Overview
-![Vending Machine Circuit](Circuit/preview.png)
+
+**Hardware Implementation Preview:**
+![Hardware Preview](Circuit/preview.jpg)
+
+**Logisim Simulation - Exact Payment (15):**
+![Simulation 1](Circuit/Circuit1.png)
+
+**Logisim Simulation - Overpayment (20):**
+![Simulation 2](Circuit/Circuit2.png)
